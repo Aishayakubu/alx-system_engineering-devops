@@ -1,2 +1,2 @@
 #!/bin/bash
-commands for shell redirections
+commands for shell permissions
