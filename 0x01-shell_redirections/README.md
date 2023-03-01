@@ -1,2 +1,2 @@
 #!/bin/bash
-commands for shell permissions
+my REAdme file
